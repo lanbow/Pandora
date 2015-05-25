@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+consumer-client/consumer-client.iml
+consumer-server/consumer-server.iml
+producer-client/producer-client.iml
+producer-server/producer-server.iml
